@@ -23,6 +23,8 @@
 
 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 
+[assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
+
 ## 软件工程
 
 ### [大一上](软件工程/大一上)
