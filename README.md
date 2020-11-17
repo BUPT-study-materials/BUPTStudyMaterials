@@ -9,7 +9,9 @@
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
-## 友情链接
+## 推荐链接
+
+### 学习仓库
 
 这是一些其他的学习仓库的链接：
 
@@ -24,6 +26,10 @@
 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 
 [assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
+
+### 开源社区
+
+[北邮人开源社区](https://byrio.org/)
 
 ## 专业
 
