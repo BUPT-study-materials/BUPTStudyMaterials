@@ -27,6 +27,8 @@
 
 [assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
 
+[BUPT-Ebooks](https://github.com/BUPT-Resources/BUPT-Ebooks)：一些电子书的合集
+
 ### 开源社区
 
 [北邮人开源社区](https://byrio.org/)
