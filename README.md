@@ -29,6 +29,8 @@
 
 [BUPT-Ebooks](https://github.com/BUPT-Resources/BUPT-Ebooks)：一些电子书的合集
 
+[Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)：一个算法学习仓库
+
 ### 开源社区
 
 [北邮人开源社区](https://byrio.org/)
