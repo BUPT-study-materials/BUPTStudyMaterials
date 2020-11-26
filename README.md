@@ -9,6 +9,18 @@
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
+## 分类仓库
+
+### 专业
+
+- [信息与通信工程](https://github.com/BUPT-study-materials/Information-and-Communication-Engineering)
+- [软件工程](https://github.com/BUPT-study-materials/Software-Engeering)
+- [自动化](https://github.com/BUPT-study-materials/Automation)
+
+### [公选课仓库](https://github.com/BUPT-study-materials/PublicElectives)
+
+- [数据结构](https://github.com/BUPT-study-materials/PublicElectives/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+
 ## 推荐链接
 
 ### 学习仓库合集
@@ -29,17 +41,21 @@
 - [awesome-python](https://github.com/vinta/awesome-python)：一个精选的Python框架、库、软件和资源的列表。
 - [awesome-programing-books](https://github.com/jobbole/awesome-programming-books)：经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
-### 开源社区
+### 学习网站
+
+[知乎](www.zhihu.com)：紧跟时事热点
+
+[Bilibili](www.bilibili.com)：众多学习视频供你选择
+
+[LeetCode](https://leetcode-cn.com/)：算法题库
+
+[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
+
+[MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
+
+### 社区
 
 [北邮人开源社区](https://byrio.org/)
 
-## 分类仓库
-
-### 专业
-
-- [信息与通信工程](https://github.com/BUPT-study-materials/Information-and-Communication-Engineering)
-- [软件工程](https://github.com/BUPT-study-materials/Software-Engeering)
-- [自动化](https://github.com/BUPT-study-materials/Automation)
-
-### 公选课仓库
+# contributor
 
