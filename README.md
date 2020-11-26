@@ -25,19 +25,19 @@
 
 ### 学习网站
 
-[知乎](www.zhihu.com)：紧跟时事热点
+- [知乎](www.zhihu.com)：紧跟时事热点
+- [Bilibili](www.bilibili.com)：众多学习视频供你选择
 
-[Bilibili](www.bilibili.com)：众多学习视频供你选择
+- [LeetCode](https://leetcode-cn.com/)：算法题库
 
-[LeetCode](https://leetcode-cn.com/)：算法题库
+- [学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
 
-[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
-
-[MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
+- [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
 
 ### 社区
 
-[北邮人开源社区](https://byrio.org/)
+- [北邮人开源社区](https://byrio.org/)
+
 
 ### [博客](BlogList.md)
 
@@ -45,21 +45,35 @@
 
 ### 学习仓库合集
 
-这是一些其他的学习仓库的链接：
+这是一些其他的学习仓库的链接。
 
-- [CS-Books](https://github.com/huihut/CS-Books/tree/master)：计算机技术类书籍 PDF
+#### 北邮相关
+
+- [awesome-bupt-scs](https://github.com/brupst/awesome-bupt-scs):北京邮电大学计算机学院本科编程作业索引
 - [See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT)：北京邮电大学计算机考研信息汇总
 - [BUPTNiceMentors](https://github.com/wukongbajie/BUPTNiceMentors)：北邮研究生导师口碑榜
-- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)：C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等
 - [BUPT-SCS-Courses](https://github.com/Oneliey/BUPT-SCS-Courses)：巴普特计院选修课指北（计院选课指南）
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
-- [assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
 - [BUPT-Ebooks](https://github.com/BUPT-Resources/BUPT-Ebooks)：一些电子书的合集
-- [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)：一个算法学习仓库
-- [C-Primer_Plus](https://github.com/zhayujie/C-Primer-Plus)：C Primer Plus课后习题答案
-- [Play-with-Alforithms](https://github.com/liuyubobobo/Play-with-Algorithms)：慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。
+
+#### 书籍仓库
+
+- [CS-Books](https://github.com/huihut/CS-Books/tree/master)：计算机技术类书籍 PDF
+- [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)：C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)：免费的计算机编程类中文书籍
 - [awesome-python](https://github.com/vinta/awesome-python)：一个精选的Python框架、库、软件和资源的列表。
 - [awesome-programing-books](https://github.com/jobbole/awesome-programming-books)：经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [C-Primer_Plus](https://github.com/zhayujie/C-Primer-Plus)：C Primer Plus课后习题答案
+
+#### 代码仓库
+
+- [Play-with-Alforithms](https://github.com/liuyubobobo/Play-with-Algorithms)：慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。
+- [assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
+- [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)：一个算法学习仓库
 
 ## contributor
 
+[![](https://avatars2.githubusercontent.com/u/48408863?s=40&u=4ee8494eda8b95d0528c6a66e4565c9ee057c68b&v=4)](https://github.com/ppdog0)
+
+**还有很多不愿意透露姓名的同学~**
+
+**感谢你们的帮助！**
