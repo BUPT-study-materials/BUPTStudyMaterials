@@ -39,6 +39,10 @@
 
 [北邮人开源社区](https://byrio.org/)
 
+### [博客](BlogList.md)
+
+还在建设中，如果你想让你的博客或者主页让更多的人看见，可以发邮件给我们，我们会将其添入其中哦~
+
 ### 学习仓库合集
 
 这是一些其他的学习仓库的链接：
@@ -57,5 +61,5 @@
 - [awesome-python](https://github.com/vinta/awesome-python)：一个精选的Python框架、库、软件和资源的列表。
 - [awesome-programing-books](https://github.com/jobbole/awesome-programming-books)：经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 
-# contributor
+## contributor
 
