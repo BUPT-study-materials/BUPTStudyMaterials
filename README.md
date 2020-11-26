@@ -23,6 +23,22 @@
 
 ## 推荐链接
 
+### 学习网站
+
+[知乎](www.zhihu.com)：紧跟时事热点
+
+[Bilibili](www.bilibili.com)：众多学习视频供你选择
+
+[LeetCode](https://leetcode-cn.com/)：算法题库
+
+[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
+
+[MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
+
+### 社区
+
+[北邮人开源社区](https://byrio.org/)
+
 ### 学习仓库合集
 
 这是一些其他的学习仓库的链接：
@@ -40,22 +56,6 @@
 - [Play-with-Alforithms](https://github.com/liuyubobobo/Play-with-Algorithms)：慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。
 - [awesome-python](https://github.com/vinta/awesome-python)：一个精选的Python框架、库、软件和资源的列表。
 - [awesome-programing-books](https://github.com/jobbole/awesome-programming-books)：经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-
-### 学习网站
-
-[知乎](www.zhihu.com)：紧跟时事热点
-
-[Bilibili](www.bilibili.com)：众多学习视频供你选择
-
-[LeetCode](https://leetcode-cn.com/)：算法题库
-
-[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
-
-[MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
-
-### 社区
-
-[北邮人开源社区](https://byrio.org/)
 
 # contributor
 
