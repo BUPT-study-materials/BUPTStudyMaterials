@@ -9,6 +9,8 @@
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
+**⚠不得直接只用仓库中的代码提交作业！**
+
 ## 分类仓库
 
 ### 专业
@@ -30,7 +32,7 @@
 
 - [LeetCode](https://leetcode-cn.com/)：算法题库
 
-- [学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站（随时都在变，爷佛了......）
+- **[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站**（随时都在变，爷佛了......）
 
 - [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
 
@@ -54,6 +56,7 @@
 - [BUPTNiceMentors](https://github.com/wukongbajie/BUPTNiceMentors)：北邮研究生导师口碑榜
 - [BUPT-SCS-Courses](https://github.com/Oneliey/BUPT-SCS-Courses)：巴普特计院选修课指北（计院选课指南）
 - [BUPT-Ebooks](https://github.com/BUPT-Resources/BUPT-Ebooks)：一些电子书的合集
+- [SSE18_Homework](https://github.com/xianfei/SSE18_Homework)：北京邮电大学软件学院18级作业代码汇总
 
 #### 书籍仓库
 
