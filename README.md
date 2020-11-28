@@ -18,6 +18,7 @@
 - [信息与通信工程](https://github.com/BUPT-study-materials/Information-and-Communication-Engineering)
 - [软件工程](https://github.com/BUPT-study-materials/Software-Engeering)
 - [自动化](https://github.com/BUPT-study-materials/Automation)
+- [国际学院](https://github.com/BUPT-study-materials/International-School)
 
 ### [公选课仓库](https://github.com/BUPT-study-materials/PublicElectives)
 
