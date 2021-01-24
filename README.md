@@ -1,6 +1,8 @@
 # 📚BUPTStudyMaterials
 一些收集而来的北邮的学习资料，不断更新中~
 
+[网站戳这儿](81.70.198.30:8080)
+
 本仓库所有的资料都来自网络的收集和同学的分享，仅供学习和研究使用，版权归原作者所有，在此不以盈利为目的，如有侵权请联系 [zzzhhh@bupt.edu.cn](zzzhhh@bupt.edu.cn) 删除。
 
 如果你有想要分享的学习资料，可以**提出pr或者发邮件给我**~
@@ -9,7 +11,7 @@
 
 如果你不怕麻烦，可以发邮件给我加入我们的团队，一起来维护这个仓库~
 
-**⚠不得直接只用仓库中的代码提交作业！**
+**⚠不得直接使用仓库中的代码提交作业！**
 
 ## 分类仓库
 
@@ -74,10 +76,8 @@
 - [assembly-exercise](https://github.com/Forec/assembly-exercise)：汇编代码习题集
 - [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)：一个算法学习仓库
 
-## contributor
+## contributors
 
-[![](https://avatars2.githubusercontent.com/u/48408863?s=40&u=4ee8494eda8b95d0528c6a66e4565c9ee057c68b&v=4)](https://github.com/ppdog0)
-
-**还有很多不愿意透露姓名的同学~**
+[![](https://avatars2.githubusercontent.com/u/48408863?s=40&u=4ee8494eda8b95d0528c6a66e4565c9ee057c68b&v=4)](https://github.com/ppdog0) [![](https://avatars1.githubusercontent.com/u/44118896?s=40&u=75b00cedea3d20ec709d3d2af601a870fdd7fb17&v=4)](https://github.com/Luyitas) [![](https://avatars0.githubusercontent.com/u/55040189?s=40&u=67f7d215758feb52dd1402afe44272e649e6b7da&v=4)](https://github.com/Flown-UI) [<img src="https://avatars0.githubusercontent.com/u/17513853?s=40&v=4" style="zoom:9.5%;" />](https://github.com/zwt-ss) [![](https://avatars3.githubusercontent.com/u/70639586?s=40&u=aed2ee5ea48afbc8dc53c9041e98704f708e3286&v=4)](https://github.com/zh-hang) [<img src="https://avatars.githubusercontent.com/u/57791704?s=40&v=4" style="zoom:9.5%;" />](https://github.com/FireBEAR12138)
 
 **感谢你们的帮助！**
