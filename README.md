@@ -35,7 +35,7 @@
 
 - [LeetCode](https://leetcode-cn.com/)：算法题库
 
-- **[学校资源网站](idp.bupt.edu.cn)：北邮的电子资源网站**（随时都在变，爷佛了......）
+- **[学校资源网站](https://idp.bupt.edu.cn)：北邮的电子资源网站**（随时都在变，爷佛了......）
 
 - [MDN](https://developer.mozilla.org/zh-CN/)：学习 Web 开发的网站
 
